@@ -91,7 +91,7 @@ order by Cantidad_Peliculas desc;
 | Maneater Series               | 26                 |
 | Fuuin Eizou                   | 20                 |
 | Troublesome Night Collection  | 20                 |
-| The Amityville Collectio      | 17                 |
+| The Amityville Collection     | 17                 |
 
 ***
 
@@ -144,7 +144,7 @@ order by Cantidad_Peliculas desc;
 - La película más larga es **Machine Learning** con una duración de **683 min**.
 - La colección que posee más películas es **Honto Ni Atta! Noroi no Video** con un número de **63** films.
 - La película **REC 4: Apocalipsis** es de las más populares de la historia estrenada en Halloween.
-- La década de oro para las películas de terror fue en el **2010**.
+- La década de oro para las películas de terror fue **'10**.
 
 ## Visualización
 
