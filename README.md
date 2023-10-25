@@ -1,5 +1,5 @@
 # 🎃 Spooky Movies - Análisis
-![logo-2](https://github.com/marina-95/Spooky-Movies-Analysis/assets/144913530/c2fe6b61-de33-43ed-b9f8-67d3ecbe1298)
+![logo-2](https://github.com/marina-95/Spooky-Movies-Analysis/assets/144913530/f9d232e6-af95-477e-8846-748cfca3b1cb)
 
 ## Tabla de Contenido
 
