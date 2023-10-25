@@ -153,5 +153,6 @@ order by Cantidad_Peliculas desc;
 - La década de oro para las películas de terror fue **'10**.
 
 ## Visualización
-![Dashboard](https://github.com/marina-95/Spooky-Movies-Analysis/assets/144913530/cefeef5f-4bb2-4577-a9a9-69fa2d058685)
+![Dashboard](https://github.com/marina-95/Spooky-Movies-Analysis/assets/144913530/ca6abaf2-bc1c-42c1-94e9-5e734e38d12f)
+
 
