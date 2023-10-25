@@ -9,7 +9,8 @@
 - [Conclusiones](#conclusiones)
 - [Visualización](#visualización)
 ## Introducción
-
+Mes de octubre, eso solo significa una cosa... ¡¡¡Maratón de pelis de terror!!! 👻
+Con la base de datos extraída de [Kaggle](https://www.kaggle.com/datasets/sujaykapadnis/horror-movies-dataset/data) realicé un análisis y posterior visualización a las pelis que se estrenaron desde 1950 en adelante. Respondo preguntas como cuáles son las más taquilleras o cuál fué la década dorada del cine de terror en cuestión de cantidad de estrenos, entre otras. 
 ## Herramientas utilizadas
 - SQL Server
 - Power BI
