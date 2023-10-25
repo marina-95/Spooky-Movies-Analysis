@@ -18,7 +18,7 @@
 
 ````sql
 select
-        top 5 original_title as Titulo_Pelicula
+	top 5 original_title as Titulo_Pelicula
 from [dbo].[horror_movies]
 order by popularity desc;
 ````
@@ -38,7 +38,7 @@ order by popularity desc;
 ````sql
 select
         top 5 original_title as Titulo_Pelicula,
-		    revenue as Ganancia
+	revenue as Ganancia
 from [dbo].[horror_movies]
 order by revenue desc;
 ````
@@ -57,8 +57,8 @@ order by revenue desc;
 
 ````sql
 select	
-		top 5 original_title as Titulo_Pelicula,
-		runtime as Duracion
+	top 5 original_title as Titulo_Pelicula,
+	runtime as Duracion
 from [dbo].[horror_movies]
 order by runtime desc;
 ````
@@ -76,9 +76,9 @@ order by runtime desc;
 **4) ¿Qué sagas cinematográficas cuentan con el mayor número de películas producidas?**
 
 ````sql
-select	
-		top 5 collection_name as Nombre_Coleccion, 
-		count(*) as Cantidad_Peliculas
+select
+	top 5 collection_name as Nombre_Coleccion,
+	count(*) as Cantidad_Peliculas
 from [dbo].[horror_movies]	
 where collection_name != 'NA'
 group by collection_name
@@ -99,8 +99,8 @@ order by Cantidad_Peliculas desc;
 
 ````sql
 select	
-		top 5 original_title as Titulo_Pelicula, 
-		release_date as Fecha_Estreno 
+	top 5 original_title as Titulo_Pelicula, 
+	release_date as Fecha_Estreno 
 from [dbo].[horror_movies]
 where datepart(day, release_date) = 31 and datepart(month, release_date) = 10
 order by popularity desc;
@@ -120,8 +120,8 @@ order by popularity desc;
 
 ````sql
 select	
-		(floor(year(release_date) / 10) * 10) as Decada, 
-		count(*) as Cantidad_Peliculas
+	(floor(year(release_date) / 10) * 10) as Decada, 
+	count(*) as Cantidad_Peliculas
 from [dbo].[horror_movies]
 group by (floor(year(release_date) / 10) * 10)
 order by Cantidad_Peliculas desc;
@@ -138,7 +138,7 @@ order by Cantidad_Peliculas desc;
 | 1960     | 769                |
 | 1950     | 340                |
 
-##Conclusiones
+## Conclusiones
 - La película más popular de todos los tiempos es **Orphan: First Kill**.
 - La película que más recaudó fue **It** con **$701.842.551**.
 - La película más larga es **Machine Learning** con una duración de **683 min**.
