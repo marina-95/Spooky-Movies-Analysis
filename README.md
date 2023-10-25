@@ -2,7 +2,12 @@
 ![logo-2](https://github.com/marina-95/Spooky-Movies-Analysis/assets/144913530/f9d232e6-af95-477e-8846-748cfca3b1cb)
 
 ## Tabla de Contenido
-
+- [Introducción](#introducción)
+- [Herramientas utilizadas](#herramientas-utilizadas)
+- [Diagrama entidad relación](#diagrama-entidad-relación)
+- [Preguntas y respuestas](#preguntas-y-respuestas)
+- [Conclusiones](#conclusiones)
+- [Visualización](#visualización)
 ## Introducción
 
 ## Herramientas utilizadas
@@ -147,4 +152,5 @@ order by Cantidad_Peliculas desc;
 - La década de oro para las películas de terror fue **'10**.
 
 ## Visualización
+![Dashboard](https://github.com/marina-95/Spooky-Movies-Analysis/assets/144913530/cefeef5f-4bb2-4577-a9a9-69fa2d058685)
 
