@@ -48,8 +48,8 @@ order by revenue desc;
 | It                 | 701.842.551 |
 | World War Z        | 531.865.000 |
 | The Meg            | 530.243.742 |
-| It Chapter Two     | 473122525   |
-| Jaws               | 470653000   |
+| It Chapter Two     | 473.122.525 |
+| Jaws               | 470.653.000 |
 
 ***
 
@@ -137,3 +137,14 @@ order by Cantidad_Peliculas desc;
 | 1970     | 1.626              |
 | 1960     | 769                |
 | 1950     | 340                |
+
+##Conclusiones
+- La película más popular de todos los tiempos es **Orphan: First Kill**.
+- La película que más recaudó fue **It** con **$701.842.551**.
+- La película más larga es **Machine Learning** con una duración de **683 min**.
+- La colección que posee más películas es **Honto Ni Atta! Noroi no Video** con un número de **63** films.
+- La película **REC 4: Apocalipsis** es de las más populares de la historia estrenada en Halloween.
+- La década de oro para las películas de terror fue en el **2010**.
+
+## Visualización
+
